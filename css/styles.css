@@ -28,3 +28,22 @@
   margin: 0px auto;
   color: black;
 }
+
+.unique {
+  margin-top: 7vh;
+  margin-bottom: 7vh;
+}
+
+.unique2 {
+  margin-left: 2vw;
+  margin-right: 2vw;
+}
+
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
+}
+
+.navbar-dark {
+  background-color: #512da8;
+}
